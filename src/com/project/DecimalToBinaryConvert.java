@@ -20,5 +20,6 @@ public class DecimalToBinaryConvert
         }
         System.out.println("Binary number:"+x);
         System.out.println("No. of 1s:"+count);
+   
     }
 }
